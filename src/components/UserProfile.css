@@ -1,0 +1,373 @@
+.personalDetail{
+    position: absolute;
+    width: 170px;
+    height: 40px;
+    left: 119px;
+    top: 89px;
+    background: #EBEBEB;
+    border-radius: 18px;
+}
+.personalDetailImg{
+    position: absolute;
+    left: 10.17%;
+    right: 87.32%;
+    top: 21.31%;
+    bottom: 91.18%;
+    
+    background: #119DA3;
+}
+.personSpan{
+position: absolute;
+width: 107px;
+height: 17px;
+left: 56.32px;
+top: 11px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.userAddress{
+    position: absolute;
+width: 116px;
+height: 40px;
+left: 297px;
+top: 89px;
+background: #EBEBEB;
+border-radius: 18px;
+}
+.addressImg{
+    
+position: absolute;
+left: 8.92%;
+top: 6.94%;
+bottom: 90.87%;
+
+}
+.addressSpan{
+    position: absolute;
+    width: 107px;
+    height: 17px;
+    left: 47.32px;
+    top: 11px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+.legalInfo{
+    position: absolute;
+width: 177px;
+height: 40px;
+left: 421px;
+top: 89px;
+
+background: #EBEBEB;
+border-radius: 18px;
+}
+.legalInfoImg{
+position: absolute;
+left: 6.95%;
+right: 63.82%;
+top: 8.08%;
+bottom: 90.76%;
+
+
+}
+.legalInfoSpan{
+    position: absolute;
+width: 115px;
+height: 17px;
+left: 57px;
+top: 10px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.pNotification{
+    position: absolute;
+width: 159px;
+height: 40px;
+left: 606px;
+top: 89px;
+
+background: #EBEBEB;
+border-radius: 18px;
+}
+.notificationImg{
+    position: absolute;
+    left: 8.44%;
+right: 49.43%;
+top: 7.06%;
+bottom: 91.13%;
+}
+.notificationSpan{
+    position: absolute;
+width: 92px;
+height: 17px;
+left: 55px;
+top: 11px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.changePassword{
+    position: absolute;
+    width: 185px;
+    height: 40px;
+    left: 773px;
+    top: 89px;
+    
+    background: #EBEBEB;
+    border-radius: 18px;
+}
+.cPImg{
+position: absolute;
+left: 7.48%;
+right: 36.01%;
+top: 6.94%;
+bottom: 90.84%;
+
+}
+.cPSpan{
+    position: absolute;
+width: 120px;
+height: 17px;
+left: 53.14px;
+top: 11px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.bankDetails{
+    position: absolute;
+width: 153px;
+height: 40px;
+left: 966px;
+top: 89px;
+
+background: #EBEBEB;
+border-radius: 18px;
+}
+.bDImg{
+    position: absolute;
+    left: 6.85%;
+right: 21.77%;
+top: 7.77%;
+bottom: 91.38%;
+}
+.bDSpan{
+    position: absolute;
+    width: 120px;
+    height: 17px;
+    left: 51.14px;
+    top: 11px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.walletInfo{
+    position: absolute;
+width: 133px;
+height: 40px;
+left: 1127px;
+top: 89px;
+background: #EBEBEB;
+border-radius: 18px;
+}
+.wiImg{
+    position: absolute;
+    left: 13.07%;
+    right: 9.04%;
+    top: 14.16%;
+    bottom: 92.68%;
+}
+.wiSpan{
+    position: absolute;
+    width: 120px;
+    height: 17px;
+    left: 55.14px;
+    top: 11px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.pDContainer{
+    position: absolute;
+    width: 946px;
+    height: 540px;
+    left: 127px;
+    top: 177px;
+    
+    background: #F9F9F9;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.4);
+}
+.pCSpan{
+    position: absolute;
+width: 769px;
+height: 50px;
+left: 68px;
+top: 14px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 25px;
+/* or 179% */
+
+
+color: #000000;
+}
+.pCPara{
+    position: absolute;
+width: 769px;
+height: 50px;
+left: 65px;
+top: 32px;
+
+font-family: 'Inter';
+font-style: normal;
+font-size: 14px;
+line-height: 25px;
+/* or 179% */
+
+
+color: #000000;
+}
+.fullName{
+position: absolute;
+width: 66px;
+height: 17px;
+left: 62px;
+top: 128px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+color: #000000;
+
+}
+.fullNameBox{
+box-sizing: border-box;
+position: absolute;
+width: 350px;
+height: 50px;
+left: 56px;
+top: 160px;
+background: #FFFFFF;
+border: 1px solid #EFEDED;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.email{
+    position: absolute;
+    width: 36px;
+    height: 17px;
+    left: 60px;
+    top: 243px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #000000; 
+}
+.emailBox{
+    box-sizing: border-box;
+position: absolute;
+width: 350px;
+height: 50px;
+left: 57px;
+top: 273px;
+background: #FFFFFF;
+border: 1px solid #EFEDED;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.dob{
+    position: absolute;
+    width: 87px;
+    height: 17px;
+    left: 61px;
+    top: 360px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #000000; 
+}
+.dobBox{
+    box-sizing: border-box;
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    left: 57px;
+    top: 387px;
+    background: #FFFFFF;
+    border: 1px solid #EFEDED;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.photoSpan{
+    position: absolute;
+width: 39px;
+height: 17px;
+left: 637px;
+top: 282px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #000000;
+}
